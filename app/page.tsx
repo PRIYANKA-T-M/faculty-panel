@@ -1,7 +1,7 @@
 "use client"
 
-import  from ".."
+import RecommendCertifications from "@/components/faculty/recommend-certifications"
 
 export default function SyntheticV0PageForDeployment() {
-  return < />
+  return <RecommendCertifications />
 }
